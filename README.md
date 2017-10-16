@@ -1,5 +1,6 @@
 # CKCplanning
 Comparative analysis for Sampling-based motion planning of closed kinematic chains
+
 Author: Avishai Sintov, http://avishaisintov.wordpress.com
 
 ## Installation

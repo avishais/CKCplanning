@@ -11,7 +11,7 @@ Author: Avishai Sintov, http://avishaisintov.wordpress.com
 
 To run a planner:
 1) make
-2) ./p<method> -h (for options)
+2) ./p<<method>> -h (for options)
 
 <method> - nr: Newton-Raphson projection.
            pcs: Passive chains swap.

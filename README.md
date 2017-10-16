@@ -12,10 +12,11 @@ Author: Avishai Sintov, http://avishaisintov.wordpress.com
 To run a planner:
 1) make
 2) ./p<method> -h (for options)
-    <method> - nr: Newton-Raphson projection.
-               pcs: Passive chains swap.
-               rlx: Relaxation of the closed kinematic chain constraint.
-               rss: Sampling of singular configurations.
+
+<method> - nr: Newton-Raphson projection.
+           pcs: Passive chains swap.
+           rlx: Relaxation of the closed kinematic chain constraint.
+           rss: Sampling of singular configurations.
       
 To run simulation:
 1) cd simulator

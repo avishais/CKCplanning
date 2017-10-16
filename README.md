@@ -10,15 +10,13 @@ Author: Avishai Sintov, http://avishaisintov.wordpress.com
 5. Change required dependency paths in makefile.
 
 To run a planner:
->> make
-
->> ./p<method> -h (for options)
+1) make
+2) ./p<method> -h (for options)
     <method> - nr: Newton-Raphson projection.
                pcs: Passive chains swap.
                rlx: Relaxation of the closed kinematic chain constraint.
                rss: Sampling of singular configurations.
       
 To run simulation:
->> cd simulator
-
->> ./viz -h (for options)
+1) cd simulator
+2) ./viz -h (for options)

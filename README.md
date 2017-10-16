@@ -11,6 +11,7 @@ Author: Avishai Sintov, http://avishaisintov.wordpress.com
 
 To run a planner:
 >> make
+
 >> ./p<method> -h (for options)
     <method> - nr: Newton-Raphson projection.
                pcs: Passive chains swap.
@@ -19,4 +20,5 @@ To run a planner:
       
 To run simulation:
 >> cd simulator
+
 >> ./viz -h (for options)

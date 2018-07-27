@@ -1,7 +1,8 @@
 # CKCplanning
-Comparative analysis for Sampling-based motion planning of closed kinematic chains
-
+Motion Planning of Fully-actuated Closed Kinematic Chains with Revolute Joints: A Comparative Analysis
 Author: Avishai Sintov, http://avishaisintov.wordpress.com
+
+Paper: https://ieeexplore.ieee.org/document/8384022/
 
 ## Installation
 1. Install OMPL: http://ompl.kavrakilab.org/download.html

@@ -1,5 +1,6 @@
 # CKCplanning
 Motion Planning of Fully-actuated Closed Kinematic Chains with Revolute Joints: A Comparative Analysis
+
 Author: Avishai Sintov, http://avishaisintov.wordpress.com
 
 Paper: https://ieeexplore.ieee.org/document/8384022/
